@@ -1,0 +1,39 @@
+  h1,
+  h2,
+  p {
+    
+    color: #817f80;
+    
+  }
+  
+  body {
+    padding-left: 40px;
+    padding-right: 40px;
+    overflow-x: hidden;
+    
+  }
+
+  .is-hidden {
+    display: none;
+  }
+  
+  .text-container {
+    max-width: 600px;
+    margin: 50px auto;
+    text-align: center;
+  }
+  
+  .error {
+    color: #ff3c00;
+  }
+  
+  .cat-info {
+    margin-top: 20px;
+    font-size: 20px;
+    
+  }
+  
+  .cat-info img {
+    max-width: 100%;
+    height: auto;
+  }
