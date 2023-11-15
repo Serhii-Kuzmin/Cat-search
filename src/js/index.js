@@ -56,7 +56,6 @@ function createMarkUp(event) {
 }
 
 function onFetchError() {
-  breedSelectEl.classList.remove('is-hidden');
   loaderInfoEl.classList.replace('loader', 'is-hidden');
 
   Notify.failure(
